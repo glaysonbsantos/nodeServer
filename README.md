@@ -1,6 +1,6 @@
 Basic node server structure for tests
 
-Just execute that command line to run:
+Just execute this command line to run:
 
 ```bash
 npm start
